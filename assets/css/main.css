@@ -2501,7 +2501,7 @@ ul.feature-icons li:before {
   font-weight: 400;
 }
 
-ul.feature-icons li:before {
+ul.feature-icons li:before a:hover {
   background: #1e46be;
   border-radius: 100%;
   color: #DAE6F0;
@@ -2890,7 +2890,7 @@ input[type="button"]:disabled,
   margin: 0;
 }
 
-#header > footer .icons li a {
+#header > footer .icons li a:hover {
   color: #1e46be;
 }
 
